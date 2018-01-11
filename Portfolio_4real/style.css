@@ -42,8 +42,8 @@ h3{
 }
 p{
 background-color: rgb(53, 41, 41);
-line-height: 30px;
-margin:1em;
+line-height: 25px;
+padding-left:100px;
 }
 li{
 background-color: rgb(153, 75, 63);
