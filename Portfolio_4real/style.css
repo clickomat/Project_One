@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: rgb(165, 168, 172);
+    font-family: 'Raleway', sans-serif;
+
+}
+body{
+    background-color: rgb(53, 41, 41);
+}
+h1{
+    text-shadow: 5px, rgb(216, 199, 199);
+    padding: 0.5em;
+}
+h2{
+    text-decoration-style: wavy;
+    padding: 1em;
+}
+img{
+    margin:auto;
+    display: block;
+    padding: 1em;
+}
+h3{
+    background-color: rgb(153, 37, 37);
+    border-style: ridge, grey;
+    padding:2em;
+}
+p{
+background-color: rgb(53, 41, 41);
+line-height: 30px;
+margin:1em;
+}
+li{
+background-color: azure;
+line-height: 25px;
+}
+li{
+    margin: 0;
+    display: block;
+}
